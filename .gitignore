@@ -36,6 +36,4 @@ Makefile
 run-msbuild.bat
 fmt.pc
 
-build_aarch64
-build_cross
-build_host
+build_*
